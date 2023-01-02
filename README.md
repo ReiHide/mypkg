@@ -10,3 +10,14 @@ ROS2がるよう可能な環境で
 git clone https://github.com/ReiHide/mypkg.git
 ~~~
 と入力する
+
+##
+## テスト環境
+* Ubuntu20.04
+
+## 必要ソフトウェア
+
+## ライセンス
+・BSDライセンスが適用されます。詳細は LINCENSE を参照してください。
+
+© 2023 Hideya Reizen
