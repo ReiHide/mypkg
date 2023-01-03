@@ -12,7 +12,6 @@ git clone https://github.com/ReiHide/mypkg.git
 と入力する
 
 ## ノード
-
 #### talker.py
 トピックcountupでlistener.pyにメッセージとして1,2,3,...と数字を送るパブリッシャ
 #### listener.py
