@@ -44,6 +44,7 @@ ros2 launch mypkg talk_listen.launch.py
 ~~~
 ros2 run mypkg talker
 ~~~
+
   〇端末2
 ~~~
 ros2 run mypkg listener
