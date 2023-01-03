@@ -50,6 +50,8 @@ ros2 run mypkg talker
 ros2 run mypkg listener
 ~~~
 * 出力例
+
+ 〇端末2
 ~~~
 [INFO] [1672728450.283001100] [listener]: Listen: 141
 [INFO] [1672728450.755937000] [listener]: Listen: 142
