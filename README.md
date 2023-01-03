@@ -12,9 +12,10 @@ git clone https://github.com/ReiHide/mypkg.git
 と入力する
 
 ##ノード
-####talker.py
+
+###talker.py
 listener.pyに1,2,3,...と数字を送るパブリッシャ
-####listener.py
+###listener.py
 talker.pyから送られた内容を標準出力するサブスクライバー
 
 ##実行例
