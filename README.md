@@ -5,7 +5,7 @@
 千葉工業大学ロボットシステム工学講義内で使用したROS2のパッケージを管理するリポジトリ
 
 ## インストール方法
-ROS2がるよう可能な環境で
+ROS2が利用可能な環境で
 ~~~
 git clone https://github.com/ReiHide/mypkg.git
 ~~~
@@ -40,11 +40,11 @@ ros2 launch mypkg talk_listen.launch.py
 終了する場合は ctrl + C
 #### 2つの端末を使用する方法
 * 入力例
-* 端末i
+〇端末i
 ~~~
 ros2 run mypkg talker
 ~~~
-* 端末2
+〇端末2
 ~~~
 ros2 run mypkg listener
 ~~~
