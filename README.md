@@ -40,12 +40,12 @@ ros2 launch mypkg talk_listen.launch.py
 #### 2つの端末を使用する方法
 * 入力例
 
-  〇端末1
+ 〇端末1
 ~~~
 ros2 run mypkg talker
 ~~~
 
-  〇端末2
+ 〇端末2
 ~~~
 ros2 run mypkg listener
 ~~~
