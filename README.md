@@ -39,7 +39,8 @@ ros2 launch mypkg talk_listen.launch.py
 終了する場合は ctrl + C
 #### 2つの端末を使用する方法
 * 入力例
-〇端末i
+
+〇端末1
 ~~~
 ros2 run mypkg talker
 ~~~
