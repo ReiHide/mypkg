@@ -2,13 +2,8 @@
 [![test](https://github.com/ReiHide/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/ReiHide/mypkg/actions/workflows/test.yml)
 
 # mypkg
-千葉工業大学ロボットシステム工学講義内で使用したROS2のパッケージを管理するリポジトリ
+千葉工業大学ロボットシステム工学講義内で使用したROS2のパッケージを管理しています。
 
-## インストール方法
-ROS2が利用可能な環境で
-~~~
-git clone https://github.com/ReiHide/mypkg.git
-~~~
 ## ノード
 #### talker.py
 トピックcountupでlistener.pyにメッセージとして1,2,3,...と数字を送るパブリッシャ
